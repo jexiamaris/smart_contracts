@@ -9,7 +9,7 @@
  * How to use: You must provide the address of three employees, specify the amount to transfer in the box VALUE, and then click on transact. The following images show haw the contract was deploy as well as the first transaction.
   ![contract1](./Images/deploy_contract1.png)
 
-  ![tx_contract1](./Images/transaction_contract1.png)
+  ![tx_contract1](./Images/transaction_contrac1.png)
 
  ## TieredProfitSplitter
 
