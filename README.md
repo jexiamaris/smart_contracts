@@ -22,4 +22,7 @@
  ## DeferredEquityPlan
 
  * Motivation: this contract models traditional company stock plans. This contract will automatically manage 1000 shares with an annual distribution of 250 over 4 years for a single employee; managing an employee's "deferred equity incentive plan" in which 1000 shares will be distributed over 4 years to the employee. 
- * How to use:
+ * How to use: You must provide the address of the employee. The following images show haw the contract was deploy as well as the first transaction.
+  ![deploy_contract3](./Images/deply_contract3.png)
+  ![contract3](./Images/contract3.png)
+  ![contract3_tx](./Images/contract3_tx.png)
